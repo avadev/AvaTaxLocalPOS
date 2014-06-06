@@ -1,6 +1,4 @@
 <h1>AvaTaxLocal Installation</h1>
-<p>
-=======================================
 <p> <strong>AvaTaxLocal</strong> is the Avalara sales tax solution for Point-Of-Sale applications. AvaTaxLocal is an on-site installation of the same tax engine used in our hosted service only with a local subset of the AvaTax data. It provides the same high level of accuracy without the dependency on an <em>always-connected</em> Internet link. </p>
 <h4>Dependencies</h4>
 <ul>
